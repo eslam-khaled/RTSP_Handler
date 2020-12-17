@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "yzV8VkgRooHA+PylfKk0EMtlgPuNZNFj8Zz7dsvPEzdZjES9ZIlz2Hkx66GiUn0EH5gPrMYclt1bbyS35vdjjg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\eslam.khaled\\source\\repos\\RTSP_Desktop\\RTSP_Desktop\\RTSP_Desktop.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\eslam.khaled\\.nuget\\packages\\rtspclientsharp\\1.3.3\\rtspclientsharp.1.3.3.nupkg.sha512"
+  ],
+  "logs": []
+}
